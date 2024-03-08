@@ -1,0 +1,10 @@
+sudo apt update - actualizar el instalador
+sudo apt install git - instalar git
+git clone "el link del repositorio para clonar" - clonar repositorios
+git init - es para comvertir una carpeta local en el repositori de git
+git add (van los archivos , carpetas selecionados para subir) - selecionar los archivos que van al repositorio 
+ git config --global user.email "you@example.com" - este el el comando para logial el comando
+git commit -m "aqui va la nota referente a la actualisacion del repositorio" -eso es colocar la nota del comando drl trpoditorio
+git push (comando para cargarto lo que a selecionado con git apt git commit)
+
+
